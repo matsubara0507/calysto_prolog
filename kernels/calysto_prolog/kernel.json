@@ -1,0 +1,8 @@
+{
+    "argv": ["python3",
+	     "-m", "calysto_prolog",
+	     "-f", "{connection_file}"],
+    "display_name": "Calysto Prolog",
+    "language": "prolog",
+    "name": "calysto_prolog"
+}
